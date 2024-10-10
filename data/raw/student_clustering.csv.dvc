@@ -1,0 +1,5 @@
+outs:
+- md5: 5936abaab1be790eaddba707bf4730b0
+  size: 2288
+  hash: md5
+  path: student_clustering.csv
